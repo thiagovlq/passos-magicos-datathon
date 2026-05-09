@@ -1,5 +1,8 @@
 # 🎓 Passos Mágicos — Datathon POSTECH Fase 5
 
+## 🌐 App Online
+👉 **[Acesse o Preditor de Risco aqui](https://paapps-magicos-datathon.streamlit.app/)**
+
 Análise de dados e modelo preditivo de risco de defasagem educacional para a Associação Passos Mágicos.
 
 ---
