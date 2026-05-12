@@ -114,6 +114,4 @@ Abra os notebooks na ordem (01 → 02 → 03) no Jupyter ou VS Code.
 
 ---
 
-## 👥 Equipe
-
 Desenvolvido para o **Datathon POSTECH — Fase 5**
